@@ -1,0 +1,48 @@
+
+
+  .showcase-container {
+    /* display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 1.6rem;
+    position: relative; */
+
+
+
+    height: 100vh;
+width: auto;
+
+ position: relative;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+
+
+  }
+
+  .showcase-container video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 2em;
+    position: absolute;
+    height: 150vh;
+    width: 80%;
+    margin-block: 100%;
+
+}
+
+.video-text {
+color: rgb(85, 85, 85);
+z-index: 2;
+font-size: 80%;
+margin-left:50%;
+margin-bottom: 10%;
+}
+ 
+     
+    
+  
